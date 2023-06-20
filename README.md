@@ -1,3 +1,3 @@
 # mellon
 
-a small lisp-like language
+(formerly kellogs) a small lisp-like language
